@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Chào bạn, tôi là Nguyễn Minh Phú 👋</h1>
-  <p><b>Web Developer Intern | Full-stack Enthusiast</b></p>
+  <p><b>Web Developer | Full-stack Enthusiast</b></p>
 
   <p>
     <a href="https://github.com/m1zhphu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>

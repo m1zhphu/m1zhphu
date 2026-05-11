@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Thống kê GitHub của m1zhphu](https://github-readme-stats.vercel.app/api?username=m1zhphu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **m1zhphu/m1zhphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
